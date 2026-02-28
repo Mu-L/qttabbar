@@ -3,6 +3,7 @@
 - [汉化GitHub modify by indiff](https://openuserjs.org/scripts/indiff/GitHub_%E6%B1%89%E5%8C%96%E6%8F%92%E4%BB%B6_(indiff)%E4%BF%AE%E6%94%B9)
 - [生成chm格式数据库文档(支持模块分组) modify by indiff](https://github.com/indiff/DBCHM)
 - [Intellij Idea 辅助插件 Jutils](https://plugins.jetbrains.com/plugin/12758-jutils)
+- [Windows11更新补丁无法使用qttabbar](https://www.yuque.com/indiff/qttabbar/hqb0xure78zw5kg4#uxDiw)
 
 [![Download sf qttabbar2](https://img.shields.io/sourceforge/dt/qttabbar2.svg)](https://sourceforge.net/projects/qttabbar2/files)
 [![GitHub all releases](https://img.shields.io/github/downloads/indiff/qttabbar/total)](https://github.com/indiff/qttabbar/releases)
@@ -81,6 +82,7 @@
 * [中文配置文件/Chinese Language File](https://raw.githubusercontent.com/indiff/qttabbar/master/Lng_QTTabBar_zh.xml)
 
 # QQ交流群/QQ Group（1群已满）🦚
+* 群4: [1082196011](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=qXGIq6Cxhd0yiNveU6qDFN39loOYHofz&authKey=ePSEwqrf77jsu2Wc7tEnJpiqMzIukslKfJQZgVPMbHXBy8PEsvbhk9i97aGqpu3x&noverify=0&group_code=1082196011)
 * 群3: [290935247](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=uDHSuCP9559NjGlEz4Ski_lHup6D3PFW&authKey=FNpsurcMXUh90bqg5l3S39L6uPaIVY95LgL6onz4svNiPjWImTDO%2BbeApzVzS98I&noverify=0&group_code=290935247)
 * 1群（满）: [157604022](https://qm.qq.com/cgi-bin/qm/qr?k=AGA5sh_6eCEYIwofpvazRxMFin8jmVI2&jump_from=webapi)
 * 2群（满）: [963211351](https://jq.qq.com/?_wv=1027&k=VCPD2zLH)
